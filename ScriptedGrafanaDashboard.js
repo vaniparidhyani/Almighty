@@ -1,3 +1,5 @@
+// Sample access URL : vani-dev2.corp.adobe.com:8080/dashboard/script/ScriptedGrafanaDashboard.js?host=somehost.com&metric=cpu
+
 'use strict';
 
 var host_query = "";
